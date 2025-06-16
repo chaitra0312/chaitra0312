@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **I’m currently experimenting with algorithms that understand patterns in data**
+- 🔭 I’m currently working on **experimenting with algorithms that understand patterns in data**
 
 - 🌱 I’m currently learning **Core concepts in artificial intelligence and data-driven decision making**
 
