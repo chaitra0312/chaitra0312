@@ -12,9 +12,6 @@
 - 🌱 I’m currently learning **Core concepts in artificial intelligence and data-driven decision making**
 
 - 👯 I’m looking to collaborate on **Exploring how to turn machine learning models into usable tools with interactive features**
-
-- 👨‍💻 All of my projects are available at [https://github.com/chaitra0312](https://github.com/chaitra0312)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
